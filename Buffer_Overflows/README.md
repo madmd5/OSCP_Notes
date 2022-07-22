@@ -111,3 +111,27 @@ Buffer Overflows
 
     -   Connect to the shell with netcat:  
         `nc -v $ip 4444`
+
+## Useful Links
+
+[Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
+
+[Simple Windows BOF](http://proactivedefender.blogspot.com/2013/05/understanding-buffer-overflows.html?m=1)
+
+[Fuzzy Security - Windows Exploit Development](http://www.fuzzysecurity.com/tutorials.html)
+
+[dostackbufferoverflowgood - easy to read](https://github.com/justinsteven/dostackbufferoverflowgood)
+
+[Exploit Exercises](https://exploit-exercises.com/)
+
+[Corelan's exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+
+[Live Overflow's Binary Hacking Videos](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+[Introduction to 32-bit Windows Buffer Overflows](https://www.veteransec.com/blog/introduction-to-32-bit-windows-buffer-overflows)
+
+[Getting Started with x86 Linux Buffer Overflows](https://scriptdotsh.com/index.php/2018/05/14/getting-started-with-linux-buffer-overflows-part-1-introduction/)
+
+https://www.sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481
+
+https://www.exploit-db.com/docs/28475.pdf
