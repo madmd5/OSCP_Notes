@@ -444,5 +444,15 @@ PS> Invoke-Kerberoast.ps1                            # crack hashes on target
 $ python3 kirbi2john.py -o johncrackfile ticket.kirbi  # convert ticket to john file
 $ john --wordlist=rockyou.txt johncrackfile
 ```
-
-
+## References
+- https://zer1t0.gitlab.io/posts/attacking_ad/
+- https://medium.com/@Shorty420/enumerating-ad-98e0821c4c78
+- https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+- https://www.tarlogic.com/blog/how-to-attack-kerberos/
+- https://haxf4rall.com/2022/04/18/linwinpwn-a-bash-script-that-automates-a-number-of-active-directory-enumeration-and-vulnerability-checks/
+- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#most-common-paths-to-ad-compromise
+- https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/
+- https://github.com/SecuProject/ADenum
+- https://vulners.com/kitploit/KITPLOIT:756661247847898396
+- https://gbhackers.com/active-directory-penetration-testing-checklist/
+- https://n3mosec.gitbook.io/pentest-notes/notes/methodologies-and-tools/active-directory
