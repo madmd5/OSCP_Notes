@@ -432,3 +432,5 @@ Common priviledge escalation exploits and scripts: https://github.com/AusJock/Pr
 - Windows EoP: https://guif.re/windowseop
 - OSCP Notes: https://securism.wordpress.com/oscp-notes-privilege-escalation-windows/
 - PrivEsc Binaries: https://lolbas-project.github.io/
+- https://steflan-security.com/windows-privilege-escalation-credential-harvesting/
+- https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
