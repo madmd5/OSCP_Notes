@@ -407,7 +407,7 @@ Common priviledge escalation exploits and scripts: https://github.com/AusJock/Pr
 
 ### Linux
 
-- Linux EoP (Best privesc): https://guif.re/linuxeop
+- Linux EoP: https://guif.re/linuxeop
 - Basic Linux Privilege Escalation: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 - unix-privesc-check: http://pentestmonkey.net/tools/audit/unix-privesc-check
 - linuxprivchecker.py: http://www.securitysift.com/download/linuxprivchecker.py
@@ -417,6 +417,8 @@ Common priviledge escalation exploits and scripts: https://github.com/AusJock/Pr
 - Kernel Exploits: https://github.com/lucyoa/kernel-exploits
 - PrivEsc binaries: https://gtfobins.github.io/
 - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+- https://payatu.com/guide-linux-privilege-escalation
+- https://johnjhacking.com/blog/linux-privilege-escalation-quick-and-dirty/
 
 ### Windows
 
